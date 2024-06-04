@@ -1,0 +1,55 @@
+Capital pagado adicional - BG
+Ganancias Retenidas - BG
+Servicio de Internet - ER
+Depreaciación del Período - ER
+Cuentas por pagar - BG
+Caja - BG
+Maquinaria - BG
+Deudas Acumuladas - BG
+ISR - ER
+Ingreso por ventas - ER
+Sueldos Administrativos - ER
+Depreciación Acumulada - BG
+Software - BG
+Deuda a largo plazo - BG
+Edificios - BG
+Gastos Adm - ER
+Acciones Preferentes - BG
+Gasto por intereses - ER
+Costo de Ventas - ER
+Terreno - BG
+Gastos Operativos - ER
+Inventarios - BG (ER)
+Valores Negociables - BG
+Clientes - BG
+Gastos Generales - ER
+
+Anticipo de los clientes - BG - Pasivo Corriente
+Préstamo Bancario a 10 años - BG - Pasivo No Corriente
+Depreciación del período - ER - Gasto de administración
+Deuda a largo plazo - Pasivo No Corriente
+ISR - ER - 
+Acciones preferentes - BG - Capital
+Clientes - BG - Activo Corriente
+Ingreso por ventas - ER -
+Ganancias Retenidas - BG - Capital
+Maquinaria - BG - Activo no corriente
+Software - BG - Activo no corriente
+Alquileres pagados por anticipado - BG - activo corriente
+Servicio de internet - ER - Gasto Administrativo
+Capital pagado adicional - BG - Capital
+Inventarios - BG - Activo corriente
+Terreno - BG - Activo no corriente
+Sueldos Administrativos - ER - Gasto Adm
+Gasto adm - ER - Gasto Adm
+Valores Negociables - BG - Activo corriente
+Costo de ventas - ER - Costo de ventas
+Edificios - BG - Activo no corriente
+Derechos de llave - BG - Activo no corriente
+Deudas acumuladas - BG - Pasivo corriente
+Cuentas por pagar - BG - Pasivo corriente
+Depreciación Acumulada - BG - Activo no corriente
+
+
+
+
